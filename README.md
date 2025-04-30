@@ -1,4 +1,6 @@
 # Act4_LoginFigma_6I_Cerna_1055
+# Resultado 
+- ![image](https://github.com/user-attachments/assets/da2b43d2-5fa7-4f37-91a6-3ca5e2469a97)
 
 A new Flutter project created with FlutLab - https://flutlab.io
 
